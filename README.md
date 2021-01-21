@@ -22,6 +22,13 @@ https://github.com/microsoft/c9-python-getting-started
 ```
 https://github.com/MyFirstSecurity2020/python2020/tree/main/python202010
 ```
+```
+步驟 1: 使用Google 帳號登入 Google Colab平台
+步驟 2: 在Google Colab平台畫面點選  檔案  ==> 開啟筆記本
+步驟 3: 在開啟筆記本畫面點選  GITHUB
+步驟 4: 將要匯入的程式網址填入
+步驟 5: 點選  放大鏡 圖示   即可匯入大大的ipynb檔案
+```
 
 ## 英文英翻中練習 ==> 認識全球最大的CTF競賽   picoCTF
 ```
