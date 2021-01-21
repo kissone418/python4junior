@@ -29,7 +29,11 @@ https://github.com/MyFirstSecurity2020/python2020/tree/main/python202010
 步驟 4: 將要匯入的程式網址填入
 步驟 5: 點選  放大鏡 圖示   即可匯入大大的ipynb檔案
 ```
-
+## 國高中以後再學  資料結構與演算法
+```
+The Algorithms - Python
+https://github.com/TheAlgorithms/Python
+```
 ## 英文英翻中練習 ==> 認識全球最大的CTF競賽   picoCTF
 ```
 picoCTF is a free computer security(安全) game with original educational content built 
