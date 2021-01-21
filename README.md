@@ -18,6 +18,12 @@ https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-
 簡報與示範程式:microsoft/c9-python-getting-started
 https://github.com/microsoft/c9-python-getting-started
 ```
+#
+```
+https://www.w3schools.com/python/
+
+https://www.w3schools.com/python/exercise.asp
+```
 ## Google colab平台匯入大大的ipynb檔案
 ```
 https://github.com/MyFirstSecurity2020/python2020/tree/main/python202010
