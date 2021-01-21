@@ -5,12 +5,25 @@
 使用神龍大大編輯的Python教材學習
 使用python解CTF題目
 ```
-# Google colab平台匯入大大的ipynb檔案
+# 學習資源
+## 推薦影片
+```
+微軟　Python for Beginners
+每節課五分鐘，微軟推出Python短視頻入門課，上Github榜首
+Channel 9 Python for Beginners course
+
+
+https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner
+
+簡報與示範程式:microsoft/c9-python-getting-started
+https://github.com/microsoft/c9-python-getting-started
+```
+## Google colab平台匯入大大的ipynb檔案
 ```
 https://github.com/MyFirstSecurity2020/python2020/tree/main/python202010
 ```
 
-# 英文英翻中練習 ==> 認識全球最大的CTF競賽   picoCTF
+## 英文英翻中練習 ==> 認識全球最大的CTF競賽   picoCTF
 ```
 picoCTF is a free computer security(安全) game with original educational content built 
 on a capture-the-flag framework created by security and privacy experts at Carnegie Mellon University.
