@@ -5,6 +5,7 @@
    建立dict的方法
 [3]dict內建函數
    https://www.w3schools.com/python/python_ref_dictionary.asp
+[4]應用 ==>編碼與解碼
 ```
 
 # [1]字典(Dictionary)
@@ -175,6 +176,9 @@ https://www.programiz.com/python-programming/dictionary
 
 ## 使用字典(Dictionary)資料型態來表達 morse 編碼
 ```
+https://en.wikipedia.org/wiki/Morse_code
+```
+```
 MORSE_CODE_DICT = { 'A':'.-', 'B':'-...', 
                     'C':'-.-.', 'D':'-..', 'E':'.', 
                     'F':'..-.', 'G':'--.', 'H':'....', 
@@ -198,8 +202,7 @@ qiwi_infosec_ctf_2016/crypto_100_3
 https://github.com/USCGA/writeups/tree/master/online_ctfs/qiwi_infosec_ctf_2016/crypto_100_3_COMPLETE
 ```
 ```
-mapping = {
-        
+mapping = { 
         'CGA': 'A',
         'CCA': 'B',
         'GTT': 'C',
