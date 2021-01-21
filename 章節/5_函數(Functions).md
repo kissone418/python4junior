@@ -99,10 +99,10 @@ Keyword arguments關鍵字參數
 全域變數(global variables):宣告在所有函式外部的變數
 ```
 ```
-x = 111   # x是 ===> 問題1: [1]全域變數(global variables)   [2]全域變數(global variables)
+x = 111   # x是 ===> 問題1: [1]區域變數(local variable)   [2]全域變數(global variables)
 
 def f1():
-    x = 222    # 問題2: [x是 ===>  [1]全域變數(global variables)   [2]全域變數(global variables)
+    x = 222    # 問題2: [x是 ===>  [1]區域變數(local variable)   [2]全域變數(global variables)
     print(x)   # 問題3: [答案是多少??
 
 f1()
