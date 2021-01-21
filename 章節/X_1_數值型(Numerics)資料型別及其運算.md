@@ -186,3 +186,11 @@ Given the encrypted number 150815, d = 1941, and N = 435979, what is the decrypt
 HINTS
 decrypted = (encrypted) ^ d mod N
 ```
+# 思考提
+```
+輸入一個5位數，撰寫程式判斷它是不是回文數。
+即12321是回文數，個位與萬位相同，十位與千位相同。
+```
+```
+輸入一個數，判斷該數是否是迴文數？
+```
