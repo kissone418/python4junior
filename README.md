@@ -58,12 +58,29 @@ Python 自學聖經：從程式素人到開發強者的技術與實戰大全！(
 
 https://www.tenlong.com.tw/products/9789865024284?list_name=srh
 ```
+
 ```
 超圖解 Python 程式設計入門
 趙英傑  旗標科技  2019-07-05
 
 https://www.tenlong.com.tw/products/9789863125952?list_name=srh
 ```
+
+```
+Python 技術者們：練功！老手帶路教你精通正宗 Python 程式
+The Quick Python Book Third Edition
+作者： Naomi Ceder  譯者： 張耀鴻   旗標出版社
+https://www.books.com.tw/products/0010834816
+```
+
+```
+用 Python 學運算思維
+Get Programming: Learn to code with Python
+作者： Ana Bell  譯者： 魏宏達
+旗標出版社
+https://www.books.com.tw/products/0010818670
+```
+
 ```
 AIOT 與 OpenCV 實戰應用：Python、樹莓派、物聯網與機器視覺
 朱克剛  碁峰資訊  2020-02-24
