@@ -9,10 +9,9 @@
 ```
 https://github.com/MyFirstSecurity2020/python2020/tree/main/python202010
 ```
-# 英文英翻中練習 ==> 認識全國最大的CTF競賽
-```
-picoCTF
 
+# 英文英翻中練習 ==> 認識全球最大的CTF競賽   picoCTF
+```
 picoCTF is a free computer security(安全) game with original educational content built 
 on a capture-the-flag framework created by security and privacy experts at Carnegie Mellon University.
 
