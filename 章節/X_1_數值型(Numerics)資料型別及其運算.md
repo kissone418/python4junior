@@ -2,6 +2,7 @@
 # 數值型資料型別(Numerics Data Type)
 ```
 [1]Python支援的數值型資料型別(Numerics Data Type)
+
 [2]基本的運算
 算術運算子Arithmetic operators
 比較（關係）運算子Comparison operators
@@ -89,11 +90,13 @@ https://www.programiz.com/python-programming/methods/built-in/divmod
 x = 5
 
 print(x > 3 and x < 10)
-
+```
+```
 x = 5
 
 print(x > 3 or x < 4)
-
+```
+```
 x = 5
 
 print(not(x > 3 and x < 10))
