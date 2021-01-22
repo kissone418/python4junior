@@ -45,6 +45,12 @@ TensorFlow, PyTorch, OpenAI gymand OpenCV.
 The most important feature that distinguishes Colab from other free cloud services is;
 Colab provides GPU and is totally free.
 ```
+# 設定 Google colab
+```
+選擇 工具 ==> 設定  ==> 
+柯基犬模式
+貓咪模式
+```
 # 確認Google Colab上的套件使用版本
 ```
 import pandas as pd
