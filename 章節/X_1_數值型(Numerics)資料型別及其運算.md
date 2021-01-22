@@ -46,7 +46,7 @@ print(type(z))
 同學請勤作練習,完成你自己的python學習之路
 https://www.w3schools.com/python/python_operators.asp
 ```
-### 算術運算
+### 算術運算: 四則運算加減乘除
 ```
 a = 17 / 3
 
@@ -66,20 +66,23 @@ a,b,c
 
 ```
 5 ** 2
+```
+```
 -3%2
 ```
-
-### _
+### 作業
 ```
-tax = 12.5 / 100
-price = 100.50
-price * tax
+111123 除以 375
 
-price + _
-
-round(_, 2)
-
-round(_)
+商數 ===??     餘數 == ??
+```
+```
+111123//375
+111123%375
+```
+```
+divmod(111123, 375)
+https://www.programiz.com/python-programming/methods/built-in/divmod
 ```
 ### Logical Operators 邏輯運算
 ```
