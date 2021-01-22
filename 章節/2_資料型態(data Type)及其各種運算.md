@@ -40,7 +40,12 @@ var1 = 'Hello Python!'
 print("var1[0]: ", var1[0])
 print("var1[1:8]: ", var1[1:8])
 ```
-
+### 字串運算
+```
+var1 = 'Hello '
+var2 = 'Python!'
+print(var1+var2)
+```
 ## [3]列表(list)資料及其運算
 ```
 list是Python中最基本的資料結構。
